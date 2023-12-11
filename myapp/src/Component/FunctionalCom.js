@@ -2,7 +2,7 @@ function FunctionalCom()
 {
     return(
         <div>
-            <h1>Hello world</h1>
+            <h1>Hello world hiiii</h1>
         </div>
     )
 }
